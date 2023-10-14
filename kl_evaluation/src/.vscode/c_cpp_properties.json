@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/dars/bebop_ws/devel/include/**",
+                "/home/dars/catkin_isolated/install_isolated/include/**",
+                "/home/dars/ros/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/dars/bebop_ws/src/ar_track_alvar/ar_track_alvar/include/**",
+                "/home/dars/bebop_ws/src/bebop_slam_related/drone_control/include/**",
+                "/home/dars/bebop_ws/src/bebop_autonomy/bebop_driver/include/**",
+                "/home/dars/bebop_ws/src/bebop_teleop/include/**",
+                "/home/dars/bebop_ws/src/bebop_test/include/**",
+                "/home/dars/bebop_ws/src/darknet_ros/darknet_ros/include/**",
+                "/home/dars/bebop_ws/src/kl_evaluation/include/**",
+                "/home/dars/bebop_ws/src/bebop_slam_related/marker_util/include/**",
+                "/home/dars/bebop_ws/src/bebop_slam_related/object_recognizer/include/**",
+                "/home/dars/bebop_ws/src/orb_pose_republisher/include/**",
+                "/home/dars/ros/src/ros_topic_test/include/**",
+                "/home/dars/bebop_ws/src/bebop_slam_related/slam_util/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
